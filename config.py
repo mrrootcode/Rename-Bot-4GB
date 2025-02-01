@@ -3,23 +3,23 @@ import os
 
 
 # Required Variables Config
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN = int(os.environ.get("ADMIN", ""))
+API_ID = int(os.environ.get("API_ID", "24026315"))
+API_HASH = os.environ.get("API_HASH", "4143de8d51d2248a4fac78055e8a2a88")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8118181574:AAEv-H-IQk0YcCkwwMzjJMjTZdXcnLdger0")
+ADMIN = int(os.environ.get("ADMIN", "5432660436"))
 
 
 # Premium 4GB Renaming Client Config
-STRING_SESSION = os.environ.get("STRING_SESSION", "")
+STRING_SESSION = os.environ.get("STRING_SESSION", "BQFunMsAMBp5xyXcRoHmgESHY0Hs2j8mlX7id3AJVKDkarWIgdKD8chOedhVW8MRqmSQgPtD8ZOgSfNkx_79Ki7GSJFqmrj7zUjlyO-5EW_LDlha6wdOQGNi6Plh8mUBFBkThb0ZJrqTPGA2PbPKntoGVpmGuLfhJivXRvOF6EmHbk4sv6vNVZdL1hra4x_2SQFnZyL1gQ4Vk6KX6TrfGqa5V6HxzuJCbd7U7fgKS_wWSlJ1aqWliRi2dsBscqZoV7K0VZL1yeXiSoD8XuRFcsUk4ZWoPfajoIaw5FDlBWupRJD9kuk3idTQJg4suQxMVGCILRT5_hcHpxu7klubUJNEKtUY-wAAAAHBSgRTAQ")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "SystemErrorBD")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002145882943"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://dushkuloreta464:AHxA9BtFWQQKtN9b@cluster0.dhcje.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
 
 
@@ -29,24 +29,3 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 
 
 
-
-# If You Need To Add Verify System Then Message Me On Telegram
-# Check Demo Bots
-# https://t.me/FileRenameXBot
-# https://t.me/PremiumRenamerRobot
-# https://t.me/FileRenamerXRobot
-# Token Verification Adding Features Is Paid So If You Want Then Dm Me
-
-
-# SHORTNER_URL = os.environ.get("SHORTNER_URL", "")
-# SHORTNER_API = os.environ.get("SHORTNER_API", "")
-# TOKEN_TIMEOUT = os.environ.get("TOKEN_TIMEOUT", "")
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
