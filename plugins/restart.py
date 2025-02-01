@@ -16,8 +16,3 @@ async def stop_button(bot, message):
 
 
 
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper & @MadflixOfficials
